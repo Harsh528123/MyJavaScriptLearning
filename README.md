@@ -1,2 +1,2 @@
 # MyJavaScriptLearning
-Although this is about 2 months late, this is how I learnt JavaScript. I learnt through a Udemy course.
+Although this is about 2 months late, but this is how I learnt in-depth JavaScript for my work. I learnt through a Udemy course.
